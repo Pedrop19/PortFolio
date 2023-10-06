@@ -116,12 +116,30 @@ document.addEventListener("DOMContentLoaded", function () {
                     + "</td>"
                     + "</tr>"
                     + "</table>"
-            } else if(textoIngresado == "calendario"){
+            } else if (textoIngresado == "calendario") {
                 resultado.textContent = " ";
                 divElement.innerHTML = "<a href='github.com/Pedrop19/'>github.com/Pedrop19/ </a>"
-                + "<span class='yellow'>" + textoIngresado + "</span><br><br>"
-                + "<span class='blue'>🔨 Actualmente en desarrollo 🔨</span>"
-            } else {
+                    + "<span class='yellow'>" + textoIngresado + "</span><br><br>"
+                    + "<table class='tabla'>"
+                    + "<tr>"
+                    +  "<th colspan='3'><span class='yellow' id='title'>📆 Calendario 📆<span></th>"
+                    + "</tr>"
+                    + "<tr>"
+                    +  "<td rowspan='3'><img src='./img/calendario.PNG' width='300px'></td>"
+                    +  "<td colspan='3' align='center'><h3 class='blue'>Descripción<h3></td>"
+                    + "</tr>"
+                    + "<tr>"
+                    +  "<td><span>Crear un calendario con la funcionalidad de poner emojis dependiendo del estado de animo del usuario<br><br>"
+                    + "</span></td>"
+                    + "<td>"
+                    + "</tr>"
+                    + "<tr>"
+                    + "<td colspan='3'>"
+                    + "<a class='blue' href='https://pedrop19.github.io/Estado-de-Animo/'>Ir al proyecto</a>"
+                    + "</td>"
+                    + "</tr>"
+                    + "</table>"
+            }  else {
                 divElement.innerHTML = "<a>github.com/Pedrop19/ </a>"
                     + "<span class='yellow'>" + textoIngresado + "</span><br><br>"
                     + "<span class='red'>comando desconocido</span><br>";
