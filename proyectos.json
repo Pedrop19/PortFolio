@@ -1,0 +1,44 @@
+{
+    "codificador": {
+        "github_link": "github.com/Pedrop19/",
+        "title": "🎖️ Codificador de Mensajes 🎖️",
+        "image_url": "./img/codifi.PNG",
+        "description": "Un grupo de inteligencia militar desea codificar los mensajes secretos...",
+        "project_link": "https://pedrop19.github.io/CodificadorMensajes/"
+    },
+    "cuentaatras": {
+        "github_link": "github.com/Pedrop19/",
+        "title": "⏳ Cuenta Atrás ⏳",
+        "image_url": "./img/cuentaatr.PNG",
+        "description": "Diseña una página web que muestre una cuenta atrás de los días, minutos y segundos...",
+        "project_link": "https://pedrop19.github.io/CuentaAtras/"
+    },
+    "millionarios": {
+        "github_link": "github.com/Pedrop19/",
+        "title": "💸 Millionarios 💸",
+        "image_url": "./img/mill.PNG",
+        "description": "Inicialmente la aplicación deberá mostrar un usuario como se muestra en la pantalla...",
+        "project_link": "https://pedrop19.github.io/Millionarios/"
+    },
+    "calendario": {
+        "github_link": "github.com/Pedrop19/",
+        "title": "📆 Calendario 📆",
+        "image_url": "./img/calendario.PNG",
+        "description": "Crear un calendario con la funcionalidad de poner emojis dependiendo del estado de ánimo del usuario",
+        "project_link": "https://pedrop19.github.io/Estado-de-Animo/"
+    },
+    "cuadro": {
+        "github_link": "github.com/Pedrop19/",
+        "title": "🔁 Cambio de Color 🔁",
+        "image_url": "./img/CambioColor.PNG",
+        "description": "Cuadrado con múltiples divs que cambian de color de forma aleatoria al hacerle hover",
+        "project_link": "https://pedrop19.github.io/CambioColor/"
+    },
+    "animacion": {
+        "github_link": "github.com/Pedrop19/",
+        "title": "🐱‍🏍 Animación 🐱‍🏍",
+        "image_url": "./img/animacion.PNG",
+        "description": "Animación simple en la que van cayendo diferentes objetos",
+        "project_link": "https://pedrop19.github.io/Animacion/"
+    }
+}
