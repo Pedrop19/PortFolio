@@ -26,6 +26,8 @@ document.addEventListener("DOMContentLoaded", function () {
                     + "<span class='green'>cuentaatras</span><br><br>"
                     + "<span class='green'>millionarios</span><br><br>"
                     + "<span class='green'>calendario</span><br><br>"
+                    + "<span class='green'>cuadro</span><br><br>"
+                    + "<span class='green'>animacion</span><br><br>"
             } else if (textoIngresado == "codificador") {
                 resultado.textContent = " ";
                 divElement.innerHTML = "<a href='github.com/Pedrop19/'>github.com/Pedrop19/ </a>"
@@ -139,16 +141,59 @@ document.addEventListener("DOMContentLoaded", function () {
                     + "</td>"
                     + "</tr>"
                     + "</table>"
-            }  else {
+            } else if (textoIngresado == "cuadro") {
+                resultado.textContent = " ";
+                divElement.innerHTML = "<a href='github.com/Pedrop19/'>github.com/Pedrop19/ </a>"
+                    + "<span class='yellow'>" + textoIngresado + "</span><br><br>"
+                    + "<table class='tabla'>"
+                    + "<tr>"
+                    +  "<th colspan='3'><span class='yellow' id='title'>🔁 Cambio de Color 🔁<span></th>"
+                    + "</tr>"
+                    + "<tr>"
+                    +  "<td rowspan='3'><img src='../img/CambioColor.PNG' width='300px'></td>"
+                    +  "<td colspan='3' align='center'><h3 class='blue'>Descripción<h3></td>"
+                    + "</tr>"
+                    + "<tr>"
+                    +  "<td><span>Cuadrado con multiples divs que cambian de color de forma aleatoria al hacerle hover<br><br>"
+                    + "</span></td>"
+                    + "<td>"
+                    + "</tr>"
+                    + "<tr>"
+                    + "<td colspan='3'>"
+                    + "<a class='blue' href='https://pedrop19.github.io/CambioColor/'>Ir al proyecto</a>"
+                    + "</td>"
+                    + "</tr>"
+                    + "</table>"
+            } else if (textoIngresado == "animacion") {
+                resultado.textContent = " ";
+                divElement.innerHTML = "<a href='github.com/Pedrop19/'>github.com/Pedrop19/ </a>"
+                    + "<span class='yellow'>" + textoIngresado + "</span><br><br>"
+                    + "<table class='tabla'>"
+                    + "<tr>"
+                    +  "<th colspan='3'><span class='yellow' id='title'>🐱‍🏍 Animacion 🐱‍🏍<span></th>"
+                    + "</tr>"
+                    + "<tr>"
+                    +  "<td rowspan='3'><img src='../img/animacion.PNG' width='300px'></td>"
+                    +  "<td colspan='3' align='center'><h3 class='blue'>Descripción<h3></td>"
+                    + "</tr>"
+                    + "<tr>"
+                    +  "<td><span>Animacion simple en la que van cayendo diferentes objetos<br><br>"
+                    + "</span></td>"
+                    + "<td>"
+                    + "</tr>"
+                    + "<tr>"
+                    + "<td colspan='3'>"
+                    + "<a class='blue' href='https://pedrop19.github.io/Animacion/'>Ir al proyecto</a>"
+                    + "</td>"
+                    + "</tr>"
+                    + "</table>"
+            } else {
                 divElement.innerHTML = "<a>github.com/Pedrop19/ </a>"
                     + "<span class='yellow'>" + textoIngresado + "</span><br><br>"
                     + "<span class='red'>comando desconocido</span><br>";
             }
-
             textarea.value = "";
             resultado.append(divElement);
-
-
         }
     });
 
