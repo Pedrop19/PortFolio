@@ -33,7 +33,8 @@ document.addEventListener("DOMContentLoaded", function () {
                             "<span class='green'>millionarios</span><br><br>" +
                             "<span class='green'>calendario</span><br><br>" +
                             "<span class='green'>cuadro</span><br><br>" +
-                            "<span class='green'>animacion</span><br><br>";
+                            "<span class='green'>animacion</span><br><br>" +
+                            "<span class='green'>blanconegro</span><br><br>";
                     } else if (proyectos.hasOwnProperty(textoIngresado)) {
                         resultado.textContent = " ";
                         const proyecto = proyectos[textoIngresado];

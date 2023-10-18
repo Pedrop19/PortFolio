@@ -40,5 +40,12 @@
         "image_url": "./img/animacion.PNG",
         "description": "Animación simple en la que van cayendo diferentes objetos",
         "project_link": "https://pedrop19.github.io/Animacion/"
+    },
+    "blanconegro": {
+        "github_link": "github.com/Pedrop19/",
+        "title": "🚮 Blanco y Negro 🚮",
+        "image_url": "./img/animacion.PNG",
+        "description": "Cambio del grayscale utilizando los eventos drag y drop de JS",
+        "project_link": "https://pedrop19.github.io/Blanco_Negro/"
     }
 }
