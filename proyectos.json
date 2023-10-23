@@ -44,8 +44,15 @@
     "blanconegro": {
         "github_link": "github.com/Pedrop19/",
         "title": "🚮 Blanco y Negro 🚮",
-        "image_url": "./img/animacion.PNG",
+        "image_url": "./img/blanco_negro.PNG",
         "description": "Cambio del grayscale utilizando los eventos drag y drop de JS",
         "project_link": "https://pedrop19.github.io/Blanco_Negro/"
+    },
+    "reproductor": {
+        "github_link": "github.com/Pedrop19/",
+        "title": "🎵 Reproductor de Música 🎵",
+        "image_url": "./img/reproductor.PNG",
+        "description": "Reproductor de Música Básico",
+        "project_link": "https://pedrop19.github.io/Reproductor-Musica/"
     }
 }
