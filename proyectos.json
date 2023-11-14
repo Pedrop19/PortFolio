@@ -54,5 +54,19 @@
         "image_url": "./img/reporoductor.PNG",
         "description": "Reproductor de Música Básico",
         "project_link": "https://pedrop19.github.io/Reproductor-Musica/"
+    },
+    "asteroids": {
+        "github_link": "github.com/Pedrop19/",
+        "title": "🎮 Videojuego Asteroids 🎮",
+        "image_url": "./img/asteroids.gif",
+        "description": "Clon del Videojuego Asteroids",
+        "project_link": "https://pedrop19.github.io/AsteroidsCliente/"
+    },
+    "millionarios2": {
+        "github_link": "github.com/Pedrop19/",
+        "title": "💸 Millionarios LocalStorage 💸",
+        "image_url": "./img/millionarioLocal.PNG",
+        "description": "Proyecto Actualizado de Millionarios usando LocalStorage",
+        "project_link": "https://pedrop19.github.io/LocalStorage/"
     }
 }
