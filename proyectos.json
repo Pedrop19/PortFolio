@@ -68,5 +68,12 @@
         "image_url": "./img/millionarioLocal.PNG",
         "description": "Proyecto Actualizado de Millionarios usando LocalStorage",
         "project_link": "https://pedrop19.github.io/LocalStorage/"
+    },
+    "notas": {
+        "github_link": "github.com/Pedrop19/",
+        "title": "💬 Notas IndexedBD 💬",
+        "image_url": "./img/notas.PNG",
+        "description": "Aplicacion de notas que utiliza indexedDB",
+        "project_link": "https://pedrop19.github.io/Notas/"
     }
 }
