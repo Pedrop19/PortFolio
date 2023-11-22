@@ -75,5 +75,13 @@
         "image_url": "./img/notas.PNG",
         "description": "Aplicacion de notas que utiliza indexedDB",
         "project_link": "https://pedrop19.github.io/Notas/"
+    },
+    "pokemon":
+    {
+        "github_link": "github.com/Pedrop19/",
+        "title": "⚠ API Pokemon ⚠",
+        "image_url": "./img/pokemon.PNG",
+        "description": "Aplicacion usando la Api de Pokemon",
+        "project_link": "https://pedrop19.github.io/Notas/"
     }
-}
+}   
