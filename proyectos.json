@@ -82,6 +82,14 @@
         "title": "⚠ API Pokemon ⚠",
         "image_url": "./img/pokemon.PNG",
         "description": "Aplicacion usando la Api de Pokemon",
-        "project_link": "https://pedrop19.github.io/Notas/"
+        "project_link": "https://pedrop19.github.io/pokeApi2/"
+    },
+    "lista-pokemon":
+    {
+        "github_link": "github.com/Pedrop19/",
+        "title": "⚠ Lista-Pokemon ⚠",
+        "image_url": "./img/listaPoke.PNG",
+        "description": "Aplicacion usando la Api de Pokemon",
+        "project_link": "https://pedrop19.github.io/ListaPokemon/"
     }
 }   

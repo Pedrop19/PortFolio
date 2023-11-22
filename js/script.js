@@ -22,8 +22,9 @@ document.addEventListener("DOMContentLoaded", function () {
                             textoIngresado +
                             "</span><br><br>" +
                             "<span class='green'>clear o cls</span>: <span class='blue'>Limpia la consola<span><br><br>"
-                            +  "<span class='green'>proyectos</span>: <span class='blue'>Muestra los proyectos disponibles<span>";
-                    } else if (textoIngresado.includes("proyectos")) {
+                            + "<span class='green'>js</span>: <span class='blue'>Muestra los proyectos en JavaScript<span>"
+                            + "<span class='green'>java</span>: <span class='blue'>Muestra los proyectos en Java<span>";;
+                    } else if (textoIngresado.includes("js")) {
                         resultado.textContent = " ";
                         divElement.innerHTML = "<a href='github.com/Pedrop19/'>github.com/Pedrop19/</a>" +
                             "<span class='yellow'>" + textoIngresado + "</span><br><br>" +
@@ -38,7 +39,14 @@ document.addEventListener("DOMContentLoaded", function () {
                             "<span class='green'>asteroids</span><br><br>" +
                             "<span class='green'>millionarios2</span><br><br>" +
                             "<span class='green'>notas</span><br><br>" +
-                            "<span class='green'>pokemon</span><br><br>";                           
+                            "<span class='green'>pokemon</span><br><br>" +
+                            "<span class='green'>lista-pokemon</span><br><br>";
+                    } else if (textoIngresado.includes("java")) {
+                        resultado.textContent = " ";
+                        divElement.innerHTML = "<a href='github.com/Pedrop19/'>github.com/Pedrop19/</a>" +
+                            "<span class='yellow'>" + textoIngresado + "</span><br><br>" +
+                            "<span class='blue'>💻 Proyectos(escribe el comando para acceder al proyecto deseado):</span><br><br>" +
+                            `${proyectos.map(proyecto => `<span class='green'>${proyecto.name}</span><br><br>`).join('')}`;
                     } else if (proyectos.hasOwnProperty(textoIngresado)) {
                         resultado.textContent = " ";
                         const proyecto = proyectos[textoIngresado];
@@ -72,7 +80,7 @@ document.addEventListener("DOMContentLoaded", function () {
                             "</span><br><br>" +
                             "<span class='red'>comando desconocido</span><br>";
                     }
-                    
+
                     textarea.value = "";
                     resultado.append(divElement);
                 }
