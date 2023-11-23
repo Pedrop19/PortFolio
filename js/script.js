@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
                             "</span><br><br>" +
                             "<span class='green'>clear o cls</span>: <span class='blue'>Limpia la consola<span><br><br>"
                             + "<span class='green'>js</span>: <span class='blue'>Muestra los proyectos en JavaScript<span>"
-                            + "<span class='green'>java</span>: <span class='blue'>Muestra los proyectos en Java<span>";
+                            + "<span class='green'>java</span>: <span class='blue'>Muestra los proyectos en Java<span>";;
                     } else if (textoIngresado.includes("js")) {
                         resultado.textContent = " ";
                         divElement.innerHTML = "<a href='github.com/Pedrop19/'>github.com/Pedrop19/</a>" +
