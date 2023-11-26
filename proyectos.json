@@ -1,0 +1,344 @@
+{
+    "js": {
+        "codificador": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🎖️ Codificador de Mensajes 🎖️",
+            "image_url": "./img/codifi.PNG",
+            "description": "Un grupo de inteligencia militar desea codificar los mensajes secretos...",
+            "project_link": "https://pedrop19.github.io/CodificadorMensajes/"
+        },
+        "cuentaatras": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "⏳ Cuenta Atrás ⏳",
+            "image_url": "./img/cuentaatr.PNG",
+            "description": "Diseña una página web que muestre una cuenta atrás de los días, minutos y segundos...",
+            "project_link": "https://pedrop19.github.io/CuentaAtras/"
+        },
+        "millionarios": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "💸 Millionarios 💸",
+            "image_url": "./img/mill.PNG",
+            "description": "Inicialmente la aplicación deberá mostrar un usuario como se muestra en la pantalla...",
+            "project_link": "https://pedrop19.github.io/Millionarios/"
+        },
+        "calendario": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "📆 Calendario 📆",
+            "image_url": "./img/calendario.PNG",
+            "description": "Crear un calendario con la funcionalidad de poner emojis dependiendo del estado de ánimo del usuario",
+            "project_link": "https://pedrop19.github.io/Estado-de-Animo/"
+        },
+        "cuadro": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🔁 Cambio de Color 🔁",
+            "image_url": "./img/CambioColor.PNG",
+            "description": "Cuadrado con múltiples divs que cambian de color de forma aleatoria al hacerle hover",
+            "project_link": "https://pedrop19.github.io/CambioColor/"
+        },
+        "animacion": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🐱‍🏍 Animación 🐱‍🏍",
+            "image_url": "./img/animacion.PNG",
+            "description": "Animación simple en la que van cayendo diferentes objetos",
+            "project_link": "https://pedrop19.github.io/Animacion/"
+        },
+        "blanconegro": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🚮 Blanco y Negro 🚮",
+            "image_url": "./img/blanco_negro.PNG",
+            "description": "Cambio del grayscale utilizando los eventos drag y drop de JS",
+            "project_link": "https://pedrop19.github.io/Blanco_Negro/"
+        },
+        "reproductor": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🎵 Reproductor de Música 🎵",
+            "image_url": "./img/reporoductor.PNG",
+            "description": "Reproductor de Música Básico",
+            "project_link": "https://pedrop19.github.io/Reproductor-Musica/"
+        },
+        "asteroids": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🎮 Videojuego Asteroids 🎮",
+            "image_url": "./img/asteroids.gif",
+            "description": "Clon del Videojuego Asteroids",
+            "project_link": "https://pedrop19.github.io/AsteroidsCliente/"
+        },
+        "millionarios2": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "💸 Millionarios LocalStorage 💸",
+            "image_url": "./img/millionarioLocal.PNG",
+            "description": "Proyecto Actualizado de Millionarios usando LocalStorage",
+            "project_link": "https://pedrop19.github.io/LocalStorage/"
+        },
+        "notas": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "💬 Notas IndexedBD 💬",
+            "image_url": "./img/notas.PNG",
+            "description": "Aplicacion de notas que utiliza indexedDB",
+            "project_link": "https://pedrop19.github.io/Notas/"
+        },
+        "pokemon":
+        {
+            "github_link": "github.com/Pedrop19/",
+            "title": "⚠ API Pokemon ⚠",
+            "image_url": "./img/pokemon.PNG",
+            "description": "Aplicacion usando la Api de Pokemon",
+            "project_link": "https://pedrop19.github.io/pokeApi2/"
+        },
+        "lista-pokemon":
+        {
+            "github_link": "github.com/Pedrop19/",
+            "title": "⚠ Lista-Pokemon ⚠",
+            "image_url": "./img/listaPoke.PNG",
+            "description": "Aplicacion usando la Api de Pokemon",
+            "project_link": "https://pedrop19.github.io/ListaPokemon/"
+        }
+    },
+    "java": {
+        "accesodirecto": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🔒 Acceso Directo 🔒",
+            "image_url": "./img/accesodirecto.PNG",
+            "description": "Aplicación que  permite el acceso directo a una base de datos",
+            "project_link": ""
+        },
+        "bebidas": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🍹 Bebidas 🍹",
+            "image_url": "./img/bebidas.PNG",
+            "description": "Aplicación que muestra las bebidas de un bar",
+            "project_link": ""
+        },
+        "biblioteca": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "📚 Biblioteca 📚",
+            "image_url": "./img/biblioteca.PNG",
+            "description": "Aplicación que muestra los libros de una biblioteca",
+            "project_link": ""
+        },
+        "calculadora": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🧮 Calculadora 🧮",
+            "image_url": "./img/calculadora.PNG",
+            "description": "Aplicación que realiza operaciones matemáticas",
+            "project_link": ""
+        },
+        "calculadora2": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🧮 Calculadora 2 🧮",
+            "image_url": "./img/calculadora2.PNG",
+            "description": "Aplicación que realiza operaciones matemáticas",
+            "project_link": ""
+        },
+        "cine": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🎬 Cine 🎬",
+            "image_url": "./img/cine.PNG",
+            "description": "Aplicación que muestra las películas de un cine",
+            "project_link": ""
+        },
+        "crud": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "📝 CRUD 📝",
+            "image_url": "./img/crud.PNG",
+            "description": "Aplicación que realiza un CRUD",
+            "project_link": ""
+        },
+        "electrodomesticos": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "📺 Electrodomésticos 📺",
+            "image_url": "./img/electrodomesticos.PNG",
+            "description": "Aplicación que muestra los electrodomésticos de una tienda",
+            "project_link": ""
+        },
+        "empresa": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🏢 Empresa 🏢",
+            "image_url": "./img/empresa.PNG",
+            "description": "Aplicación que muestra los empleados de una empresa",
+            "project_link": ""
+        },
+        "empresapolimorfa": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🏢 Empresa Polimorfa 🏢",
+            "image_url": "./img/empresaPolimorfa.PNG",
+            "description": "Aplicación que muestra los empleados de una empresa",
+            "project_link": ""
+        },
+        "facultad": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🏫 Facultad 🏫",
+            "image_url": "./img/facultad.PNG",
+            "description": "Aplicación que muestra los alumnos de una facultad",
+            "project_link": ""
+        },
+        "ficheros": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "📁 Ficheros 📁",
+            "image_url": "./img/ficheros.PNG",
+            "description": "Aplicación que muestra los ficheros de una carpeta",
+            "project_link": ""
+        },
+        "filtro": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🔎 Filtro 🔎",
+            "image_url": "./img/filtro.PNG",
+            "description": "Aplicación que usa los filtros de JAVA",
+            "project_link": ""
+        }, 
+        "formas": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🔺 Formas 🔺",
+            "image_url": "./img/formas.PNG",
+            "description": "Aplicación que muestra las formas geométricas",
+            "project_link": ""
+        },
+        "geometricas": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🔺 Geométricas 🔺",
+            "image_url": "./img/geometricas.PNG",
+            "description": "Aplicación que muestra las formas geométricas",
+            "project_link": ""
+        },
+        "gestorsesiones": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🔑 Gestor Sesiones 🔑",
+            "image_url": "./img/gestorSesiones.PNG",
+            "description": "Aplicación que gestiona las sesiones de un usuario",
+            "project_link": ""
+        },
+        "gimnasio": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🏋️ Gimnasio 🏋️",
+            "image_url": "./img/gimnasio.PNG",
+            "description": "Aplicación que muestra los clientes de un gimnasio",
+            "project_link": ""
+        },
+        "laberinto": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🎮 Laberinto 🎮",
+            "image_url": "./img/laberinto.PNG",
+            "description": "Aplicación que muestra un laberinto",
+            "project_link": ""
+        },
+        "monedero": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "💰 Monedero 💰",
+            "image_url": "./img/monedero.PNG",
+            "description": "Aplicación que muestra el dinero de un monedero",
+            "project_link": ""
+        },
+        "noaccesodirecto": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🔒 No Acceso Directo 🔒",
+            "image_url": "./img/noAccesoDirecto.PNG",
+            "description": "Aplicación que no usa el acceso directo a una base de datos",
+            "project_link": ""
+        },
+        "objetosDAO": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "📁 Objetos DAO 📁",
+            "image_url": "./img/objetosDAO.PNG",
+            "description": "Aplicación que muestra los objetos de una base de datos",
+            "project_link": ""
+        }, 
+        "parquebomberos": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🚒 Parque Bomberos 🚒",
+            "image_url": "./img/parqueBomberos.PNG",
+            "description": "Aplicación que muestra los bomberos de un parque",
+            "project_link": ""
+        },
+        "petshop": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🐶 PetShop 🐶",
+            "image_url": "./img/petShop.PNG",
+            "description": "Aplicación que muestra los animales de una tienda de mascotas",
+            "project_link": ""
+        },
+        "polimorfismo": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🔺 Polimorfismo 🔺",
+            "image_url": "./img/polimorfismo.PNG",
+            "description": "Aplicación que muestra las formas geométricas",
+            "project_link": ""
+        },
+        "presupuestos": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "💰 Presupuestos 💰",
+            "image_url": "./img/presupuestos.PNG",
+            "description": "Aplicación que muestra los presupuestos de una empresa",
+            "project_link": ""
+        },
+        "reservas": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "📅 Reservas 📅",
+            "image_url": "./img/reservas.PNG",
+            "description": "Aplicación que muestra las reservas de un hotel",
+            "project_link": ""
+        },
+        "restaurante": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🍽️ Restaurante 🍽️",
+            "image_url": "./img/restaurante.PNG",
+            "description": "Aplicación que muestra los platos de un restaurante",
+            "project_link": ""
+        },
+        "supermercado": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🛒 Supermercado 🛒",
+            "image_url": "./img/supermercado.PNG",
+            "description": "Aplicación que muestra los productos de un supermercado",
+            "project_link": ""
+        },
+        "tienda": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🛍️ Tienda 🛍️",
+            "image_url": "./img/tienda.PNG",
+            "description": "Aplicación que muestra los productos de una tienda",
+            "project_link": ""
+        },
+        "transporte": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🚚 Transporte 🚚",
+            "image_url": "./img/transporte.PNG",
+            "description": "Aplicación que muestra los transportes de una empresa",
+            "project_link": ""
+        },
+        "vehiculos": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🚗 Vehículos 🚗",
+            "image_url": "./img/vehiculos.PNG",
+            "description": "Aplicación que muestra los vehículos de una empresa",
+            "project_link": ""
+        },
+        "videoclub": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🎥 Videoclub 🎥",
+            "image_url": "./img/videoclub.PNG",
+            "description": "Aplicación que muestra las películas de un videoclub",
+            "project_link": ""
+        },
+        "videoclubherencia": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🎥 Videoclub Herencia 🎥",
+            "image_url": "./img/videoclubHerencia.PNG",
+            "description": "Aplicación que muestra las películas de un videoclub",
+            "project_link": ""
+        },
+        "windowscalculator": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🧮 Windows Calculator 🧮",
+            "image_url": "./img/windowsCalculator.PNG",
+            "description": "Aplicación que realiza operaciones matemáticas",
+            "project_link": ""
+        },
+        "zoo": {
+            "github_link": "github.com/Pedrop19/",
+            "title": "🐯 Zoo 🐯",
+            "image_url": "./img/zoo.PNG",
+            "description": "Aplicación que muestra los animales de un zoo",
+            "project_link": ""
+        }
+    }
+}   
