@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     let textarea = document.getElementById("input_textarea");
     let resultado = document.getElementById("output");
 
-    fetch('https://my-json-server.typicode.com/pedrop19/APIProyectos/db')
+    fetch('./proyectos.json')
         .then(response => response.json())
         .then(data => {
             const proyectos = data;
