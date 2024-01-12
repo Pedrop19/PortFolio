@@ -108,6 +108,14 @@
             "image_url": "./img/SalaCine.PNG",
             "description": "Gestion de una sala de Cine",
             "project_link": "https://pedrop19.github.io/GestiondeSaladeCine/"
+        },
+        "gestiontareas":
+        {
+            "github_link": "github.com/Pedrop19/",
+            "title": "📝 Gestión de Tareas 📝",
+            "image_url": "./img/gestiontareas.PNG",
+            "description": "Gestion de Tareas",
+            "project_link": "https://pedrop19.github.io/TablaGestionTareas/"
         }
     },
     "java": {
