@@ -33,21 +33,11 @@ document.addEventListener("DOMContentLoaded", function () {
                         Object.keys(proyectos.js).forEach(proyectoKey => {
                             divElement.innerHTML += `<span class='green'>${proyectoKey}</span><br><br>`;
                         });
-                    } else if (textoIngresado.includes("java")) {
-                        resultado.textContent = " ";
-                        divElement.innerHTML = "<a href='github.com/Pedrop19/'>github.com/Pedrop19/</a>" +
-                            "<span class='yellow'>" + textoIngresado + "</span><br><br>" +
-                            "<span class='blue'>💻 Proyectos(escribe el comando para acceder al proyecto deseado):</span><br><br>";
-                        Object.keys(proyectos.java).forEach(proyectoKey => {
-                            divElement.innerHTML += `<span class='green'>${proyectoKey}</span><br><br>`;
-                        });
                     } else {
                         let proyectoEncontrado = null;
 
                         if (proyectos.js.hasOwnProperty(textoIngresado)) {
                             proyectoEncontrado = proyectos.js[textoIngresado];
-                        } else if (proyectos.java.hasOwnProperty(textoIngresado)) {
-                            proyectoEncontrado = proyectos.java[textoIngresado];
                         }
 
                         if (proyectoEncontrado) {
