@@ -7,13 +7,6 @@
             "description": "Un grupo de inteligencia militar desea codificar los mensajes secretos...",
             "project_link": "https://pedrop19.github.io/CodificadorMensajes/"
         },
-        "cuentaatras": {
-            "github_link": "github.com/Pedrop19/",
-            "title": "⏳ Cuenta Atrás ⏳",
-            "image_url": "./img/cuentaatr.PNG",
-            "description": "Diseña una página web que muestre una cuenta atrás de los días, minutos y segundos...",
-            "project_link": "https://pedrop19.github.io/CuentaAtras/"
-        },
         "millionarios": {
             "github_link": "github.com/Pedrop19/",
             "title": "💸 Millionarios 💸",
