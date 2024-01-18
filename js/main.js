@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     let textarea = document.getElementById("input_textarea");
     let resultado = document.getElementById("output");
 
-    fetch('http://localhost:3000/api/proyectos')
+    fetch('https://apinode-production-47ee.up.railway.app/api/proyectos')
         .then(response => response.json())
         .then(data => {
             const proyectos = data;
