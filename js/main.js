@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     let textarea = document.getElementById("input_textarea");
     let resultado = document.getElementById("output");
 
-    fetch('./proyectos.json')
+    fetch('http://localhost:3000/api/proyectos')
         .then(response => response.json())
         .then(data => {
             const proyectos = data;
